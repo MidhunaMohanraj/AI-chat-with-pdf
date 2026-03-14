@@ -14,7 +14,7 @@ import os
 import re
 from sentence_transformers import SentenceTransformer
 import faiss
-
+  
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="AI Chat with PDF",
