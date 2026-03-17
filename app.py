@@ -3,7 +3,7 @@ app.py — AI Chat with PDF
 Upload any PDF → Ask questions → Get answers with page references
 100% local using sentence-transformers + FAISS + Gemini (free API)
 """
-  
+    
 import streamlit as st
 import google.generativeai as genai
 import fitz  # PyMuPDF
